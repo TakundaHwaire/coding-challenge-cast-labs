@@ -1,4 +1,4 @@
-let worker = new Worker("worker.js");
+//let worker = new Worker("src/worker.js");
 
 let url = "https://demo.castlabs.com/tmp/text0.mp4";
 
